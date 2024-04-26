@@ -8,3 +8,7 @@
 for i in range(5):
     print("Hello! I am learning markdown!")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
